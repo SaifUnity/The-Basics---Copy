@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helmy\\The Basics - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9942A0E-9EA8-0301-D536-0C7290C55223}|Assembly-CSharp.csproj|c:\\users\\helmy\\the basics - copy\\assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9942A0E-9EA8-0301-D536-0C7290C55223}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9942A0E-9EA8-0301-D536-0C7290C55223}|Assembly-CSharp.csproj|c:\\users\\helmy\\the basics - copy\\assets\\scripts\\youwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9942A0E-9EA8-0301-D536-0C7290C55223}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\youwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9942A0E-9EA8-0301-D536-0C7290C55223}|Assembly-CSharp.csproj|C:\\Users\\helmy\\The Basics - Copy\\assets\\source files\\scripts\\updatecollectiblecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9942A0E-9EA8-0301-D536-0C7290C55223}|Assembly-CSharp.csproj|solutionrelative:assets\\source files\\scripts\\updatecollectiblecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Collectible.cs",
+              "DocumentMoniker": "C:\\Users\\helmy\\The Basics - Copy\\Assets\\Scripts\\Collectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectible.cs",
+              "ToolTip": "C:\\Users\\helmy\\The Basics - Copy\\Assets\\Scripts\\Collectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectible.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:49:18.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YouWin.cs",
+              "DocumentMoniker": "C:\\Users\\helmy\\The Basics - Copy\\Assets\\Scripts\\YouWin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\YouWin.cs",
+              "ToolTip": "C:\\Users\\helmy\\The Basics - Copy\\Assets\\Scripts\\YouWin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\YouWin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:53:46.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCollectibleCount.cs",
+              "DocumentMoniker": "C:\\Users\\helmy\\The Basics - Copy\\Assets\\Source Files\\Scripts\\UpdateCollectibleCount.cs",
+              "RelativeDocumentMoniker": "Assets\\Source Files\\Scripts\\UpdateCollectibleCount.cs",
+              "ToolTip": "C:\\Users\\helmy\\The Basics - Copy\\Assets\\Source Files\\Scripts\\UpdateCollectibleCount.cs",
+              "RelativeToolTip": "Assets\\Source Files\\Scripts\\UpdateCollectibleCount.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:55:31.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
